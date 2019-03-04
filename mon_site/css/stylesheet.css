@@ -1,0 +1,78 @@
+.message_carousel{
+	color: #BBC1C0;
+	
+}
+span{
+	font-size: 25px;
+}
+.badge{
+	font-size: 25px;
+}
+.pils_text{
+	font-size: 30px;
+	left: 50px;
+}
+span{
+	font-size: 23px;
+}
+
+.imgtxt{
+	float: right;
+}
+
+.avatar_1, .avatar_2{
+	float: left;
+}
+.tableau{
+	border-style: solid;
+	border-color: red;
+}
+.row1{
+	background-color: grey;
+}
+.row2{
+	background-color: #AEAEAE;
+}
+.row3{
+	background-color: #AEAEAE;
+}
+.ring{
+	float: right;
+}
+.txtimg{
+	float: left;
+}
+.table-bordered{
+	text-align: center;
+}
+.foot{
+	background-color: grey;
+}
+.txt_wizard{
+	position: absolute;
+	background-color: rgba(255,255,255,0.8);
+	left: 75px;
+	top: 10px;
+}
+.txt_yummy{
+	position: absolute;
+	background-color: rgba(255,255,255,0.8);
+	left: 75px;
+	top: 10px;
+}
+.card_hobbit:hover{
+	opacity: 0.4;
+}
+.card_wizard:hover{
+	opacity: 0.4;
+}
+.card_yummy:hover{
+	opacity: 0.4;
+}
+.txt_hobbit{
+	position: absolute;
+	left: 120px;
+	top: 80px;
+	color: black;
+	font-size: 30px;
+}
